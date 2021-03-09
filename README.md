@@ -1,6 +1,14 @@
 # 01-Homework-Refactor
-a repository for assignment #1 Homework.
-It contains code for a web app.
-I changed the css and html to implement semantic structure and make the code more readable.
-I also fixed a few broken elements in the app.
-I modified existing code, rather then building the application from scratch, as per the assignment requirements.
+
+REFACTOR
+
+This project is a webpage, the code of which has been edited to aid in accessibility by adding semantic structured.
+
+HTML
+
+Changes have been made to the original HTML file to replace div tags with semantic tags. comments have been added to make the source code easier to read. Alt attributes have been added to Images to aid in accessibility. a few features that were not working correctly have also been fixed.
+
+CSS
+
+The CSS file has been editted as well. changes to the classes have been made to remove redundant styling. Comments have also been added. The background image in the Hero class has been moved to the HTML file and put in an img tag. The hero class has been changed to "heroShot" to so that it's easier to tell what it is for. HeroShot is used to style the hero image.
+
