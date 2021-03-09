@@ -10,5 +10,5 @@ Changes have been made to the original HTML file to replace div tags with semant
 
 CSS
 
-The CSS file has been editted as well. changes to the classes have been made to remove redundant styling. Comments have also been added. The background image in the Hero class has been moved to the HTML file and put in an img tag. The hero class has been changed to "heroShot" to so that it's easier to tell what it is for. HeroShot is used to style the hero image.
+The CSS file has been editted as well. changes to the classes have been made to remove redundant styling. Comments have also been added. The background image in the Hero class has been moved to the HTML file and put in an img tag. The hero class has been changed to "heroShot" so that it's easier to tell what it is for. HeroShot is used to style the hero image.
 
