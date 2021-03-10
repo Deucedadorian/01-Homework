@@ -2,7 +2,7 @@
 
 APPLICATION DESCRIPTION
 
-This application is a webpage for Horiseon. The page contains information about the company.
+This application is a webpage for Horiseon. Horiseon is a digital marketing agency. The page contains information about the company.
 
 REFACTOR
 
