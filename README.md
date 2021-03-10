@@ -19,3 +19,7 @@ The CSS file has been editted as well. changes to the classes have been made to 
 LINK to DEPLOYED APPLICATION:
 
 https://deucedadorian.github.io/01-Homework-Refactor/
+
+SCREENSHOT:
+
+![A screenshot of the live application, which can be seen by going to the application GitHub URL above.](./assets/images/Screenshot_(4).png)
