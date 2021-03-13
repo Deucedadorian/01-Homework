@@ -22,4 +22,4 @@ https://deucedadorian.github.io/01-Homework-Refactor/
 
 ## Screenshot:
 
-![A screenshot of the live application, which can be seen by going to the application GitHub URL above.](.assets/images/Homework-Refactor)
+![A screenshot of the live application, which can be seen by going to the application GitHub URL above.](./assets/images/Homework-Refactor.png)
